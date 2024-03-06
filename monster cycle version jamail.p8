@@ -7,10 +7,10 @@ __lua__
 --music--
 audio_artist=""
 audio_credits_color=6
-music_mainmenu=0
-music_ghost=1
-music_undead=2
-music_human=3
+music_mainmenu=40
+music_ghost=44
+music_undead=48
+music_human=52
 ---------
 
 --sfxs--
@@ -3048,13 +3048,13 @@ __music__
 01 30403121
 00 3240331a
 00 3440352c
-00 3640372c
+00 3440352c
+00 3840393a
+00 3b403c3d
+00 3e1d3f80
+00 3e1d3f80
 00 3840393a
 00 3b403c3d
 00 3e1d3f80
 02 3e1d3f80
-00 3e408080
-00 80408080
-00 80408080
-00 80408080
 
